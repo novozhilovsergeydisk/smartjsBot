@@ -21,7 +21,7 @@
   "dependencies": {
     "amd-loader": "^0.0.8",
     "axios": "^0.21.4",
-    "node-fetch": "^3.0.0",
+    "metasync": "^0.3.32",
     "node-telegram-bot-api": "^0.54.0",
     "nodemon": "^2.0.12"
   }
