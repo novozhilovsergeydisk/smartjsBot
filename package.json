@@ -1,0 +1,28 @@
+{
+  "name": "smartjsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novozhilovsergeydisk/smartjsBot.git"
+  },
+  "keywords": [],
+  "author": "Sergey Novozhilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novozhilovsergeydisk/smartjsBot/issues"
+  },
+  "homepage": "https://github.com/novozhilovsergeydisk/smartjsBot#readme",
+  "dependencies": {
+    "amd-loader": "^0.0.8",
+    "axios": "^0.21.4",
+    "node-fetch": "^3.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.12"
+  }
+}
